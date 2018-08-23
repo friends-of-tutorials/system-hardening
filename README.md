@@ -4,7 +4,7 @@ A guide to hardening systems. You can read the german version [here](README.de.m
 
 ## A. Further Tutorials
 
-* Coming soon..
+* [A tutorial to securely transfer messages](https://github.com/friends-of-tutorials/securely-transfer-messages)
 
 ## B. Sources
 
