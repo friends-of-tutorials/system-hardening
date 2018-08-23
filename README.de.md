@@ -1,6 +1,6 @@
 # Härten von Systemen
 
-Dies ist eine Anleitung um Systeme bestmöglichst abzusichern<sup>1</sup> und zu härten. Sie beschäftigt sich mit dem Entfernen aller Softwarebestandteile und Funktionen, welche nicht zwingend für den ordentlichen Betrieb der entsprechenden Aufgabe notwendig sind.
+Dies ist eine Anleitung um Systeme bestmöglichst<sup>1</sup> abzusichern und zu härten. Sie beschäftigt sich mit dem Entfernen aller Softwarebestandteile und Funktionen, welche nicht zwingend für den ordentlichen Betrieb der entsprechenden Aufgabe notwendig sind.
 
 ## 1. Übersicht
 
