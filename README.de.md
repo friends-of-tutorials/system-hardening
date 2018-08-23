@@ -23,7 +23,7 @@ TODO..
 
 ## D. Fußnoten
 
-* <sup>1</sup> = Nach aktuellem Stand und Möglichkeit. Eine 100%ige Absicherung ist so gut wie nie möglich.
+* <sup>1</sup> = Nach aktuellem Stand und Möglichkeit. Eine hundertprozentige Absicherung ist so gut wie nie möglich.
 
 ## E. Autoren
 
