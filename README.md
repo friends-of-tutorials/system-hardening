@@ -1,6 +1,6 @@
 # System Hardening
 
-A guide to hardening systems.
+A guide to hardening systems. You can read the german version [here](README.de.md).
 
 ## A. Further Tutorials
 
