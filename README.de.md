@@ -8,7 +8,8 @@ TODO..
 
 ## A. Weitere Anleitungen
 
-* [A tutorial to securely transfer messages](https://github.com/friends-of-tutorials/securely-transfer-messages)
+* [Sicherheit von Webanwendungen](https://github.com/friends-of-tutorials/web-application-security/blob/master/README.de.md)
+* [Eine Anleitung um Nachrichten sicher zu übertragen](https://github.com/friends-of-tutorials/securely-transfer-messages)
 
 ## B. Quellen
 
