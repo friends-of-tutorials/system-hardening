@@ -1,6 +1,6 @@
 # Härten von Systemen
 
-Dies ist eine Anleitung um Systeme bestmöglichst abzusichern und zu härten. Sie beschäftigt sich mit dem Entfernen aller Softwarebestandteile und Funktionen, welche nicht zwingend für den ordentlichen Betrieb der entsprechenden Aufgabe notwendig sind.
+Dies ist eine Anleitung um Systeme bestmöglichst abzusichern<sup>1</sup> und zu härten. Sie beschäftigt sich mit dem Entfernen aller Softwarebestandteile und Funktionen, welche nicht zwingend für den ordentlichen Betrieb der entsprechenden Aufgabe notwendig sind.
 
 ## 1. Übersicht
 
@@ -23,7 +23,7 @@ TODO..
 
 ## D. Fußnoten
 
-* <sup>1</sup> = z.B. der Apache Webserver mit entsprechend aktivierten Modulen (z.B. [mod_rewrite](https://httpd.apache.org/docs/current/mod/mod_rewrite.html) oder [mod_headers](http://httpd.apache.org/docs/current/mod/mod_headers.html))
+* <sup>1</sup> = Nach aktuellem Stand und Möglichkeit. Eine 100%ige Absicherung ist so gut wie nie möglich.
 
 ## E. Autoren
 
