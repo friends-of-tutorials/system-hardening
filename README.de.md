@@ -4,7 +4,34 @@ Dies ist eine Anleitung um Systeme bestmöglichst<sup>1</sup> abzusichern und zu
 
 ## 1. Übersicht
 
-TODO..
+### 1.1 Einzelsystem-Härtung
+
+* Grundhärtung
+  * Einschränkung administrativer Zugriffe (Root-Zugriff)
+    * SSH-Zugang
+    * DB-Zugang
+    * etc.
+  * Kernelhärtung
+    * Unterbinden des RamDisk Zugriffs
+    * Verhindern von Kernelmodul-Nachladeversuchen
+  * Entsprechende Härtungen installierter Software-Module, z.B.
+    * Mailserver
+    * MySQL-Server / MariaDB-Server, etc.
+      * Aktivierte verschlüsselte Datenverbindung
+  * Härtung am Beispiel des Webservers
+    * Verwendung von sicheren und aktuellen SSL-Protokollen
+    * Abschaltung von nicht benötigten Headerauslieferungen (Versionsnummer, etc.)
+    * Abschalten von nicht benötigten Informations- und Statusseiten (server-status)
+    * Aktivierung des mod_security Moduls
+    * etc.
+  * Aktivierung serverseitige Firewall (ufw)
+    * Whitelist für freigeschaltete Dienste
+    * Einschränkung des Netzwerkzugriffes
+  * Schließen aller nicht benötigten Dienste und Ports
+  * Entfernen aller unnötigen Datenzugriffsmöglichkeiten
+  * Entfernen oder Verschleiern aller unnötigen Versionsnummernausgaben 
+  * Einfaches IPS + IDS (Fail2Ban)
+  * Regelmäßige oder automatische Einspielungen von Sicherheitspatches
 
 ## A. Weitere Anleitungen
 
