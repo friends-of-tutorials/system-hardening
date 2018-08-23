@@ -32,6 +32,30 @@ Dies ist eine Anleitung um Systeme bestmöglichst<sup>1</sup> abzusichern und zu
   * Entfernen oder Verschleiern aller unnötigen Versionsnummernausgaben 
   * Einfaches IPS + IDS (Fail2Ban)
   * Regelmäßige oder automatische Einspielungen von Sicherheitspatches
+  
+### 1.2 Eingesetzte Sicherheitssoftware
+
+* Fail2Ban (Blockieren von IP Adressen, von wahrscheinlichen Angreifern)
+* AppArmor (Einschränken von Zugriffsrechten einzelner Programme)
+* Apticron (Benachrichtigung über Sicherheitspatches)
+* RKHunter (Rootkit, BackDoor und Exploit Scanner mit Mailbenachrichtigung)
+* Ferner für Analysen und Eigentests: Lynis
+* Etc.
+
+### 1.3 Weitere präventive Maßnahmen
+
+* Einschränken von Zugriffsrechten auf das nötige Maß (Admin, User, etc.)
+* Regelmäßige Sicherung der Log-Dateien
+* Verschlüsselung wichtiger Daten
+* Backups aller relevanten Dateien
+* Regelmäßige Rücksicherungs-Tests
+* Speichern der Backups auf getrennten Systemen
+  * im günstigsten Fall: anderer Anbieter/Rechenzentrum, etc.
+* Schulung der Mitarbeiter bezüglich Passwortvergabe und sichere Nutzung der Systeme
+* Monitoring der Dienste auf ordentliche Funktion und Verfügbarkeit
+* Ausführliche Dokumentation der Architekturen und Härtungen
+* Vertretungsregeln Administration
+* Dokumentation eines Notfallplan für den Schadensfall
 
 ## A. Weitere Anleitungen
 
