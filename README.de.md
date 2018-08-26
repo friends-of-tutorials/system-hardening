@@ -7,7 +7,7 @@ Dies ist eine Anleitung um Systeme bestmöglichst<sup>1</sup> abzusichern und zu
 ### 1.1 Einzelsystem-Härtung
 
 * Grundhärtung
-  * Einschränkung administrativer Zugriffe (Root-Zugriff)
+  * Einschränkung administrativer Zugriffe (z.B. `root` Zugänge)
     * SSH-Zugang
     * DB-Zugang
     * etc.
